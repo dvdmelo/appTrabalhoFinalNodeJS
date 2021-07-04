@@ -21,7 +21,7 @@ $( document ).ready(function() {
   }
 
   // Cria um novo socket.
-  var socket = new WebSocket("wss://stunning-gunnison-43098.herokuapp.com");
+  var socket = new WebSocket("wss://historic-virgin-islands-96532.herokuapp.com");
   //var socket = new WebSocket("ws://localhost:9898/");
 
   // Função para tratar os erros que podem ocorrer
